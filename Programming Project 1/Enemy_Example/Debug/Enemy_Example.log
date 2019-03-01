@@ -1,0 +1,5 @@
+﻿  Game.cpp
+m:\programming\programming project 1\enemy_example\particles.h(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+m:\programming\programming project 1\enemy_example\particles.h(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+m:\programming\programming project 1\enemy_example\game.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Enemy_Example.vcxproj -> M:\Programming\Programming Project 1\Debug\PlayerProject.exe
